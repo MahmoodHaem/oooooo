@@ -1,0 +1,7 @@
+?token=NTgzMDU4OTk2Mjk0OTc1NDk3.XPQl2w.Y324mjyAgIA6Ij6LhT0G0szXTC0
+owner=526385469903077376
+prefix=2
+game=.?.?.
+stayinchannel=true
+songinstatus=false
+token=NTgzMDU4OTk2Mjk0OTc1NDk3.XPQl2w.Y324mjyAgIA6Ij6LhT0G0szXTC0
